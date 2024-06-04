@@ -21,7 +21,6 @@ Information around external integrations that Watson uses and how these environm
 ## Guidelines
 Definitions of the software oriented guidelines and best practices that we follow:
 
-- **[Coding Style:](./Guidelines/coding-style.md)** Our general coding style guidelines.
 - **[C# Guidelines:](./Guidelines/c-sharp-guidelines.md)** Best practices and guidelines for C#.
 - **[Unity Guidelines:](./Guidelines/unity-guidelines.md)** Guidelines and best practices for our multiple Unity projects.
 - **[.NET API Guidelines:](./Guidelines/dotnet-api-guidelines.md)** Rules and best practices for our dotnet API.

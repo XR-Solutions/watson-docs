@@ -30,10 +30,7 @@
       href: Integrations/openai.md
 
 - name: Guidelines
-  items:
-    - name: Coding Style
-      href: Guidelines/coding-style.md
-    
+  items:    
     - name: C# Guidelines
       href: Guidelines/c-sharp-guidelines.md
     
