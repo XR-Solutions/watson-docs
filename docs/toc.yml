@@ -1,9 +1,12 @@
 - name: Introduction
   href: introduction.md
 
+- name: Forensic Use
+  href: forensic-use.md
+
 - name: Getting Started
   href: getting-started.md
-
+  
 - name: Contributing
   items:
     - name: How Can I Contribute?

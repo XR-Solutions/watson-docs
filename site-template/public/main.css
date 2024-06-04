@@ -33,6 +33,14 @@
     --bs-primary-text-emphasis: #4D65Af;
 }
 
+.navbar {
+    background-color: var(--bs-body-bg);
+}
+
+h2, h3, h4, hr {
+    margin-top: 50px;
+}
+
 #logo {
     max-height: 30px;
     margin-right: 10px;
