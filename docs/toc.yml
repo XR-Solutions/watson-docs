@@ -1,0 +1,25 @@
+- name: Introduction
+  href: introduction.md
+
+- name: Getting Started
+  href: getting-started.md
+
+- name: Contributing
+  items:
+    - name: How Can I Contribute?
+      href: Contributing/how-can-i-contribute.md
+
+- name: Integrations
+  items:
+    - name: Open AI
+      href: Integrations/openai.md
+
+- name: Guidelines
+  items:
+    - name: Coding Style
+      href: Guidelines/coding-style.md
+
+- name: Technical
+  items:
+    - name: Watson Architecture Overview
+      href: Technical/architecture-overview.md

@@ -1,0 +1,39 @@
+:root {
+}
+
+[data-bs-theme="dark"] {
+    --bs-body-color: #EFEFEF;
+    --bs-body-color-rgb: #EFEFEF;
+
+    --bs-body-bg: #000000;
+    --bs-body-bg-rgb: #000000;
+    
+    --bs-secondary-color: #DEDEDE;
+    --bs-secondary-color-rg: #DEDEDE;
+    
+    --bs-secondary-bg: #080808;
+    --bs-secondary-bg-rg: #080808;
+
+    /* --bs-tertiary-color: #AAAAAA;
+    --bs-tertiary-color-rgb: #AAAAAA; */
+
+    --bs-tertiary-bg: #242424;
+    --bs-tertiary-bg-rgb: #242424;
+
+    --bs-emphasis-color: #FFFFFF;
+    --bs-emphasis-color-rgb: #FFFFFF;
+
+    --bs-border-color: #404040;
+    --bs-border-color-rgb: #404040;
+
+    --bs-primary: #283E98;
+    --bs-primary-rgb: #283E98;
+    --bs-primary-bg-subtle: #1B2B70;
+    --bs-primary-border-subtle: #3A52A3;
+    --bs-primary-text-emphasis: #4D65Af;
+}
+
+#logo {
+    max-height: 30px;
+    margin-right: 10px;
+}
