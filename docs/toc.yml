@@ -4,13 +4,25 @@
 - name: Forensic Use
   href: forensic-use.md
 
-- name: Getting Started
-  href: getting-started.md
+- name: Technical Documentation
+  href: technical-documentation.md
   
 - name: Contributing
   items:
     - name: How Can I Contribute?
       href: Contributing/how-can-i-contribute.md
+    
+    - name: Repository structure
+      href: Contributing/repository-structure.md
+
+    - name: Setup Your Development Environment
+      href: Contributing/setup-environment.md
+
+    - name: Development Workflow
+      href: Contributing/development-workflow.md
+
+    - name: Pull Requests
+      href: Contributing/pull-requests.md
 
 - name: Integrations
   items:
@@ -21,8 +33,37 @@
   items:
     - name: Coding Style
       href: Guidelines/coding-style.md
+    
+    - name: C# Guidelines
+      href: Guidelines/c-sharp-guidelines.md
+    
+    - name: .NET Api Guidelines
+      href: Guidelines/dotnet-api-guidelines.md
+    
+    - name: Unity Guidelines
+      href: Guidelines/unity-guidelines.md
+
+    - name: Prompt Guidelines
+      href: Guidelines/prompt-guidelines.md
 
 - name: Technical
   items:
-    - name: Watson Architecture Overview
+    - name: Watson System Architecture Overview
       href: Technical/architecture-overview.md
+
+    - name: Watson Api
+      items:
+        - name: Api Architecture
+          href: Technical/Watson-Api/software-architecture.md
+          
+        - name: Semantic Kernel
+          href: Technical/Watson-Api/semantic-kernel.md
+          
+    - name: Watson MR
+      items:
+        - name: Software Architecture
+          href: Technical/Watson-Mr/software-architecture.md
+          
+        - name: Mixed Reality Toolkit
+          href: Technical/Watson-Mr/mrtk3.md
+    
