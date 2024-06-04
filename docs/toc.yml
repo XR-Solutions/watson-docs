@@ -34,8 +34,8 @@
     - name: C# Guidelines
       href: Guidelines/c-sharp-guidelines.md
     
-    - name: .NET Api Guidelines
-      href: Guidelines/dotnet-api-guidelines.md
+    - name: Api Guidelines
+      href: Guidelines/api-guidelines.md
     
     - name: Unity Guidelines
       href: Guidelines/unity-guidelines.md

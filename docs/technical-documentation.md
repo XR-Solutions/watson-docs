@@ -23,7 +23,7 @@ Definitions of the software oriented guidelines and best practices that we follo
 
 - **[C# Guidelines:](./Guidelines/c-sharp-guidelines.md)** Best practices and guidelines for C#.
 - **[Unity Guidelines:](./Guidelines/unity-guidelines.md)** Guidelines and best practices for our multiple Unity projects.
-- **[.NET API Guidelines:](./Guidelines/dotnet-api-guidelines.md)** Rules and best practices for our dotnet API.
+- **[API Guidelines:](./Guidelines/api-guidelines.md)** Conventions and best practices for our API.
 
 ## Technical
 These documents contain in detail descriptions about the inner workings of Watson:
