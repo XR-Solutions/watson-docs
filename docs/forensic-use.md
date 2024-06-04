@@ -3,7 +3,7 @@ Watson serves as a powerful tool to help crime scene investigators do their job.
 
 ## On Site Reporting
 
-![Screenshot of the reporting tool](/images/app-screenshots/screenshot-reporting-tool.png)
+![Screenshot of the reporting tool](../images/app-screenshots/screenshot-reporting-tool.png)
 
 Forensic work demands precision, efficiency, and meticulous attention to detail. At a crime scene, numerous actions must be taken promptly. However, the sheer volume of tasks can lead to chaos, and critical steps might inadvertently be overlooked. Additionally, time constraints and external pressures further exacerbate the situation. Enter the **Reporting Extension** within Watson, a solution designed to prevent oversight and streamline investigative processes.
 
