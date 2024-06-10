@@ -26,7 +26,7 @@
     "globalMetadata": {
       "_appName": "Watson",
       "_appTitle": "Watson Docs",
-      "_appFooter": "<a href='/en' style='text-decoration: unset; color: inherit; margin-right: 15px;'>English</a> <a href='/nl' style='text-decoration: unset; color: inherit'>Dutch</a>",
+      "_appFooter": "<a href='~/en' style='text-decoration: unset; color: inherit; margin-right: 15px;'>English</a> <a href='~/nl' style='text-decoration: unset; color: inherit'>Dutch</a>",
       "_appLogoPath": "./images/site/watson-logo.png",
       "_appFaviconPath": "./images/site/favicon.ico",
       "_enableSearch": true,
@@ -34,8 +34,8 @@
     },
     "fileMetadata": {
       "_appFooter": {
-        "en/**/*.md": "<a href='/en' style='text-decoration: unset; color: inherit; margin-right: 15px;'>English</a> <a href='/nl' style='text-decoration: unset; color: inherit'>Dutch</a>",
-        "nl/**/*.md": "<a href='/en' style='text-decoration: unset; color: inherit; margin-right: 15px;'>Engels</a> <a href='/nl' style='text-decoration: unset; color: inherit'>Nederlands</a>"
+        "en/**/*.md": "<a href='~/en' style='text-decoration: unset; color: inherit; margin-right: 15px;'>English</a> <a href='~/nl' style='text-decoration: unset; color: inherit'>Dutch</a>",
+        "nl/**/*.md": "<a href='~/en' style='text-decoration: unset; color: inherit; margin-right: 15px;'>Engels</a> <a href='~/nl' style='text-decoration: unset; color: inherit'>Nederlands</a>"
       }
     }
   }
