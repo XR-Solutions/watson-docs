@@ -16,7 +16,7 @@ The Watson Rest API uses a web api architecture commonly refered to as ✨Clean 
 
 These layers interact with each other and this can easily be visualised in an "Onion" Shaped Diagram:
 
-![Clean Architecture Onion - Watson REST API](../../../images/diagrams/clean-architecture-banner.png)
+![Clean Architecture Onion - Watson REST API](../../../../images/diagrams/clean-architecture-banner.png)
 
 
 ---

@@ -1,0 +1,66 @@
+- name: Introductie
+  href: introduction.md
+
+- name: Forensich Doel
+  href: forensic-use.md
+
+- name: Technische Documentatie
+  href: technical-documentation.md
+  
+- name: Bijdragen
+  items:
+    - name: Hoe kan ik bijdragen?
+      href: Contributing/how-can-i-contribute.md
+    
+    - name: Repository structuur
+      href: Contributing/repository-structure.md
+
+    - name: Zet je eigen ontwikkel omgeving op
+      href: Contributing/setup-environment.md
+
+    - name: Ontwikel werkstroom
+      href: Contributing/development-workflow.md
+
+    - name: Pull Requests
+      href: Contributing/pull-requests.md
+
+- name: Integraties
+  items:
+    - name: Open AI
+      href: Integrations/openai.md
+
+- name: Richtlijnen
+  items:    
+    - name: C# Richtlijnen
+      href: Guidelines/c-sharp-guidelines.md
+    
+    - name: Api Richtlijnen
+      href: Guidelines/api-guidelines.md
+    
+    - name: Unity Richtlijnen
+      href: Guidelines/unity-guidelines.md
+
+    - name: Prompt Richtlijnen
+      href: Guidelines/prompt-guidelines.md
+
+- name: Technisch
+  items:
+    - name: Watson Systeem Architecture Overzicht
+      href: Technical/architecture-overview.md
+
+    - name: Watson Api
+      items:
+        - name: Api Architectuur
+          href: Technical/Watson-Api/software-architecture.md
+          
+        - name: Semantic Kernel
+          href: Technical/Watson-Api/semantic-kernel.md
+          
+    - name: Watson MR
+      items:
+        - name: Software Architectuur
+          href: Technical/Watson-Mr/software-architecture.md
+          
+        - name: Mixed Reality Toolkit
+          href: Technical/Watson-Mr/mrtk3.md
+    

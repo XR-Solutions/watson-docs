@@ -5,7 +5,7 @@ This application is developed as the final project for a minor in Mixed Reality 
 
 <section style="margin: 75px auto; max-width: 700px;">
 
-![The Microsoft HoloLens 2](../images/hololens/hololens-2-side-profile.png)
+![The Microsoft HoloLens 2](../../images/hololens/hololens-2-side-profile.png)
 
 </section>
 

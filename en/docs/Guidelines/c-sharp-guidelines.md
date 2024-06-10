@@ -21,7 +21,7 @@ By convention, C# programs use `PascalCase` for type names, namespaces, and all 
 - Avoid using abbreviations or acronyms in names, except for widely known and accepted abbreviations.
 - Use meaningful and descriptive namespaces that follow the reverse domain name notation.
 - Choose assembly names that represent the primary purpose of the assembly.
-- Avoid using single-letter names, except for simple loop counters. Also, syntax examples that describe the syntax of C# constructs often use the following single-letter names that match the convention used in the [C# language specification](~/_csharpstandard/standard/readme.md). Syntax examples are an exception to the rule.
+- Avoid using single-letter names, except for simple loop counters. Also, syntax examples that describe the syntax of C# constructs often use the following single-letter names that match the convention used in the C# language specification. Syntax examples are an exception to the rule.
 
   - Use `S` for structs, `C` for classes.
   - Use `M` for methods.
