@@ -18,6 +18,8 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    env:
+      TRANSLATION_KEY: ${{ secrets.AZURE_COGNITIVE_SERVICE_KEY }}
     steps:
     - name: Checkout
       uses: actions/checkout@v3
@@ -27,6 +29,9 @@ jobs:
         dotnet-version: 8.x
 
     - run: dotnet tool update -g docfx
+    - run: dotnet tool install DocLanguageTranslator -g
+
+    - run: DocLanguageTranslator -d ./ -k $TRANSLATION_KEY
     - run: docfx ./docfx.json
 
     - name: Upload artifact
