@@ -1,0 +1,14 @@
+- name: Introductie
+  href: introduction.md
+
+- name: HoloLens
+  items:
+    - name: Over de HoloLens App
+      href: hololens/about.md
+
+- name: Mobile Companion
+  items:
+    - name: Companion App
+      href: mobile/companion-app.md
+
+    

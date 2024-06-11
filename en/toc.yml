@@ -1,3 +1,6 @@
 - name: Documentation
   href: docs/
+
+- name: User Guide
+  href: user-guide/
   

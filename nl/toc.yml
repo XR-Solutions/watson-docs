@@ -1,2 +1,6 @@
 - name: Documentatie
   href: docs/
+
+- name: Gebruikers Handleiding
+  href: user-guide/
+  

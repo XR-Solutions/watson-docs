@@ -28,6 +28,9 @@
   items:
     - name: Open AI
       href: Integrations/openai.md
+      
+    - name: Auth0
+      href: Integrations/auth0.md
 
 - name: Guidelines
   items:    
